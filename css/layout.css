@@ -28,25 +28,32 @@
   background: white;
 }
 
-.col-1 {
-  float: left;
-  width: 32%;
-}
-
-.col-2 {
+.featured-brand {
   float: left;
   width: 66%;
+  margin: 0 5px 10px 0;
 }
 
-.col-3 {
-
+.archive {
+  float: left;
+  width: 32%;
+  margin: 0 0 10px 10px;
 }
 
-[class*="col-"] {
-  margin-left: 2%;
+.col-end-left {
+    float: left;
+    width: 32%;
+    margin: 0 10px 10px 0;
 }
 
-.first {
-  margin-left:0%;
-  margin-bottom: 2%;
+.col-end-right {
+  float: left;
+  width: 32%;
+  margin: 0 0 10px 10px;
+}
+
+.col-middle {
+  float: left;
+  width: 32%;
+  margin: 0 10px 10px 10px;
 }
