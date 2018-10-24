@@ -43,7 +43,7 @@
 .col-end-left {
     float: left;
     width: 32%;
-    margin: 10px 10px 10px 0;
+    margin: 0 10px 10px 0;
 }
 
 .col-end-right {
@@ -55,5 +55,5 @@
 .col-middle {
   float: left;
   width: 32%;
-  margin: 10px 10px 10px 10px;
+  margin: 0 10px 10px 10px;
 }
